@@ -1,0 +1,32 @@
+/* Styling the body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+/* Styling an image */
+img {
+    border: 2px solid #333;
+    border-radius: 8px;
+    margin: 10px 0;
+    max-width: 100%;
+}
+
+/* Styling a class */
+.card {
+    padding: 15px;
+    margin: 10px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Styling an ID */
+#header {
+    font-size: 24px;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
